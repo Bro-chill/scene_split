@@ -1,0 +1,7 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": "graph.workflow:analyze_script_workflow"
+  },
+  "env": ".env"
+}
